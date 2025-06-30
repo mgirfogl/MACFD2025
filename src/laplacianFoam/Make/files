@@ -1,0 +1,3 @@
+laplacianFoam_customized.C
+
+EXE = /scratch/mgirfogl/MACFD2025_temp/laplacianFoam/laplacianFoam_customized
